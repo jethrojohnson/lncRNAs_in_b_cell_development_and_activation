@@ -1,7 +1,7 @@
 # lncRNAs_in_b_cell_development_and_activation
 
 
-This repository contains code used to produce figures and tables presented in my 2016 
+This repository contains code used to produce figures and tables presented in our 2016 
 publication ['Long noncoding RNAs in B-cell development and activation'](https://doi.org/10.1182/blood-2015-11-680843).
 
 Initial sequence data processing was done using [CGAT Pipelines](https://github.com/CGATOxford/CGATPipelines). Specifically:
